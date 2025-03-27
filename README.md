@@ -36,8 +36,8 @@ Skills & Technologies
 💡 Software Development – Python, Flask, REST APIs
 
 Contact Me
-📩 Email: himanshi@example.com
-📍 LinkedIn: linkedin.com/in/himanshibande
-📂 GitHub: github.com/himanshibande
+📩 Email: bandehimanshi@gmail.com
+📍 LinkedIn: https://l1nk.dev/3zKhU
+📂 GitHub: https://github.com/hiiiimanshii
 
 🚀 Let's connect and collaborate on AI innovations!
